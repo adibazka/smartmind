@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://smartmindmaincontent.blogspot.com/2022/10/cara-membuat-sticker.html",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "App is Ready",
@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -70,7 +70,7 @@
 "EXIT_POPUP_DIALOG" : "
 Agar Kami lebih semangat mengembangkan Aplikasi ini
 
-Bantu kami dengan rating bingtang 5 ya 
+Bantu kami dengan rating bintang 5 ya 
 
 Klik tombol rating 
 ",
@@ -80,7 +80,7 @@ Klik tombol rating
 "SHARE_TXT" : "
 this app is awesome 
 
-you need try to donwload this app
+you need try to download this app
 i.ve download and so much happy
 
 ",
