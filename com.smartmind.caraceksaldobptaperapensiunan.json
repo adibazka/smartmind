@@ -5,19 +5,19 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://smartmindmaincontent.blogspot.com/2022/10/cara-cek-saldo-bp-tapera-pensiunan.html",
+"HOMEURL" : "https://ceksaldobptapera.blogspot.com/",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "App is Ready",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=smartmind",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Perfect+Mind",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -25,9 +25,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "FAN",
-"PENGATURAN_IKLAN_INTER" : "FAN",
-"PENGATURAN_IKLAN_NATIVE" : "FAN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTER_COUNT" : "5",
 
@@ -41,16 +41,16 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-9893835016769530/3271113631",
+"ADMOB_INTER" : "ca-app-pub-9893835016769530/9379805530",
+"ADMOB_NATIV" : "ca-app-pub-9893835016769530/3534837512",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"HPK_ALIENDROID" : "properti",
+"HPK_ADMOB1" : "tabungan",
+"HPK_ADMOB2" : "bank",
+"HPK_ADMOB3" : "kpr rumah",
+"HPK_ADMOB4" : "kredit rumah",
+"HPK_ADMOB5" : "perumahan",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
