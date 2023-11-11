@@ -29,7 +29,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "5",
+"INTER_COUNT" : "3",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -45,12 +45,12 @@
 "ADMOB_INTER" : "ca-app-pub-9893835016769530/9379805530",
 "ADMOB_NATIV" : "ca-app-pub-9893835016769530/3534837512",
 
-"HPK_ALIENDROID" : "properti",
-"HPK_ADMOB1" : "tabungan",
-"HPK_ADMOB2" : "bank",
-"HPK_ADMOB3" : "kpr rumah",
-"HPK_ADMOB4" : "kredit rumah",
-"HPK_ADMOB5" : "perumahan",
+"HPK_ALIENDROID" : "personal finance",
+"HPK_ADMOB1" : "insurance",
+"HPK_ADMOB2" : "bank loan",
+"HPK_ADMOB3" : "investing",
+"HPK_ADMOB4" : "property",
+"HPK_ADMOB5" : "workout",
 
 "FAN_BANNER" : "632724772044561_632726012044437",
 "FAN_INTER" : "632724772044561_632726082044430",
