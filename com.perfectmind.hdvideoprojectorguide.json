@@ -69,14 +69,11 @@
 
 "EXIT_POPUP_DIALOG" : "
 We are trying to develope and to improve this application
-
 Help us with a 5 star RATING
-
-Click the RATING button
 ",
 "RATE_BUTTON" : "Rate 5 Stars",
 "LATER_BUTTON" : "Later",
-"ENABLE_SHARE_BUTTON" : false,
+"ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
 this app is awesome 
 
