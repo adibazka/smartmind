@@ -11,13 +11,13 @@
 "JSON_POPUP_WAIT" : "App Ready ...",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
+"REDIRECT_TRAFFIC" : true,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Perfect+Mind",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
